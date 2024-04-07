@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         };
 
         // Send form data to the Google Apps Script web app
-        fetch('https://script.google.com/macros/s/AKfycbyEgOx28LRXeH4LGeIWcvGWbihnikRt1m-51kwN8403X5vvrBPXF5w37bYjvKFdhGYiCA/exec', {
+        fetch('https://script.google.com/macros/s/AKfycbyQQm1_MIZNR_Jdgwhb1f3SrkZ90hHk-5O7tcz23x3CDtwwCchpjfFUFwdpdrtCZehv/exec', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
